@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "Câmera";
+"本地" = "Local";
+"DVR" = "Gravações";
+"删除%d个文件？" = "Deletar %d arquivos？";
+"%d个文件删除失败！" = "%d Falhas";
+"取消" = "Cancelar";
+"确定" = "Ok";
+"相册" = "Album";
+"设置" = "Configurações";
+"wifi设置" = "Configuração WiFi";
+"校准时间" = "Ajustar Data";
+"格式化TF卡" = "Formatar Cartão";
+"格式化TF卡提示" = "Todos os vídeos serão apagados.
+Tem certeza que deseja formatar?";
+"录音设置" = "Microfone Mudo";
+//"录制时长" = "Record video length";
+"碰撞灵敏度" = "Sensor Impactor";
+"恢复出厂设置" = "Padrão Fabrica";
+
+"曝光调整" = "Exposição";
+"视频格式" = "Formato de vídeo";
+"戳记" = "Date Stamp";
+"日期格式" = "Date Format" ;
+"移动侦测" = "Motion Detection";
+"15秒" = "15 seg";
+"日期+型号" = "Date+Logo";
+"日期" = "Date";
+"无" = "OFF";
+"年月日" = "YYYY MM DD";
+"月日年" = "MM DD YYYY";
+"日月年" = "DD MM YYYY";
+
+"30秒" = "30 seg";
+"1分钟" = "1min";
+"3分钟" = "3min";
+"5分钟" = "5min";
+"关闭" = "Desl";
+"低" = "Baixo";
+"中" = "Médio";
+"高" = "Alto";
+"共有%d个文件" = "Total de arquivos %d";
+"未连接DVR" = "Câmera não conectada!";
+"照片" = "Foto";
+"视频" = "Video";
+"事件" = "Evento";
+"选择" = "Selecionar";
+"全选" = "Todos";
+"未选择文件" = "Arquivo não selecionado";
+"Wi-Fi名称必须为1-27个非空字符。" = "Nome Wi-Fi deve ter 1-27 caracteres sem espaço branco";
+"Wi-Fi密码必须为8-32个非空字符。" = "Senha Wi-Fi deve ter 1-27 caracteres sem espaço branco";
+"更新" = "Update";
+"修改成功！" = "Modificado com sucesso!";
+"修改失败！" = "Falhou na modificação!";
+"摄像机时间将会校准为：" = "Data será configurada para:";
+"校准时间失败！" = "Falha na configuração de data!";
+"校准时间成功！" = "O tempo de gravação está sincronizado!";
+"格式化TF卡失败！" = "Falha ao formatar cartão SD!";
+"格式化TF卡成功！" = "Seu cartão foi formatado com sucesso!";
+"恢复出厂设置失败！" = "Falha ao formatar modo fábrica!";
+"恢复出厂设置成功！" = "Formatado com sucesso!";
+"设置失败！" = "Falha na configuração!";
+"DVR将会重启Wi-Fi" = "Mude as configurações no smartphone para conectar com sucesso";
+"下载" = "Salvar";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Fotos é usada para salvar e compartilhar fotos e vídeos.";
+
+//new
+//"设备拍照成功！" = "Device camera success!";
+//"设备拍照失败！" = "Device camera failure!";
+"帮助" = "Ajuda";
+"关于" = "Sobre";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "A conexão falhou, por favor certifique-se que seu Smartphone esta conectado a rede Wi-fi da camera veicular.
+Rede Wi-fi padrão “ Intelbras DC 3102xxxx”
+Senha Padrão “12345678”";
+"保存失败！" = "Falha ao salvar";
+"问题1" = "1. O que fazer se o sistema travar?";
+"答案1" = "(1) Aperte reset para reiniciar\n(2) Verifique a procedência do cartão e se o cartão não é classe 10 (clique aqui) -> point to link at side ->\"https://loja.intelbras.com.br/cartao-micro-sd-purple-intelbras-de-32gb-para-sistemas-de-seguranca-eletronica/p?idsku=4600144&gclid=EAIaIQobChMItP3JiLfD6gIViIeRCh393g1rEAQYAyABEgJi1_D_BwE\"";
+"问题2" = "2.How to do when dvr can't power on?";
+"答案2" = "(1) Verifique se o cabo de alimentação está bem conectado\n(2) Verifique se o cartão está inserido\n(3) Verifique se o botão de ligar está pressionado\n(4) Pressione reset";
+"问题3" = "3. O vídeo quando assistido no computador está com problema?";
+"答案3" = "(1) Verifique se o cartão SD está com problema\n(2) Troque o cartão para um cartão classe 10";
+"问题4" = "4. O vídeo gravado não está nitido?";
+"答案4" = "(1) Passar um pano limpo na lente";
+"问题5" = "5. Gravação quando assistido no computador fica travado?";
+"答案5" = "(1) Experimente outro reprodutor de vídeo\n(2) Verifique a procedência do cartão SD";
+"问题6" = "6. Câmera está gravando vídeos com duração menor que 3 minutos?";
+"答案6" = "(1) Verificar se a detecão de movimento está ativa\n(2) Verifique a procedência do cartão, e/ou experimente um cartão classe 10.";
+"问题7" = "7. Por que minha Wi-Fi não conecta?";
+"答案7" = "(1) Verifique as configurações do seu smartphone.\n(2) Verifique se o Wi-Fi da câmera está on\n(3) Se todas as alternativas acima foram feitas, por favor volte a câmera para o padrão de fábrica.";
+
+"加载视频失败！" = "Falhou no carregamento do vídeo!";
+"该视频不可播放！" = "Não é possível reproduzir o vídeo!";

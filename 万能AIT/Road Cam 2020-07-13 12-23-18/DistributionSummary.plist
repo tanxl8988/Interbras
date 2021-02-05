@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Road Cam.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>39BB1ECF85ADDFF3CC3AAE4027BE20B5B4EF8A26</string>
+				<key>dateExpires</key>
+				<string>2021/3/31</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7JA3J4SM22.com.apical.universal</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7JA3J4SM22</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>7JA3J4SM22.com.apical.universal</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DOC_.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>589aed42-8563-4138-8dd4-722b89ad27ab</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7JA3J4SM22</string>
+				<key>name</key>
+				<string>SHENZHEN APICAL TECHNOLOGY CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
